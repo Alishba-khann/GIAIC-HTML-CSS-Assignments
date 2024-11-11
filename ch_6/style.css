@@ -1,0 +1,65 @@
+h1{
+    font-family:'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    text-align: center;
+
+}
+#main-box{
+      width: 1100px;
+      height: 500px;
+      border: 2px solid gray;
+      text-align: center;
+      background-color: #e9ecef;
+      margin: 40px;
+      padding: 10px;
+}
+
+div{
+height: 40px;
+width: 50px;
+border: 2px solid gray;
+display: inline-block;
+}
+.first-color{
+    background-color: #005f73;
+    text-align: center;
+    padding: 1px;
+}
+
+.second-color{
+    background-color: #0a9396;
+    text-align: center;
+}
+.third-color{
+    background-color:#94d2bd;
+    text-align: center;
+}
+.forth-color{
+    background-color: #e9d8a6;
+    text-align: center;
+}
+.fifth-color{
+    background-color: #ee9b00;
+    text-align: center;
+}
+.sixth-color{
+    background-color: #ca6702;
+    text-align: center;
+}
+.seventh-color{
+    background-color: #bb3e03;
+    text-align: center;
+}
+.eighth-color{
+    background-color: #ae2012;
+    text-align: center;
+}
+.nineth-color{
+    background-color: #ffecd1;
+    text-align: center;
+}
+.eleventh-color{
+   background-color: #495057;
+   margin-top: 1px;
+   color:white;
+}
